@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMRITHAASOK
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning MCA
+- 🌱 I’m a MCA graduate.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
