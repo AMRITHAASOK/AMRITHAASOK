@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AMRITHAASOK
-- 👀 I’m interested in coding.
+- 👋 Hi, I’m Amritha
+- 👀 I’m interested in coding and Teaching
 - 🌱 I’m a MCA graduate.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
