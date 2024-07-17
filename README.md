@@ -5,5 +5,7 @@ Hey there! 👋 I'm Amritha, a passionate Full Stack Engineer at Luminar Technol
 👩‍💻 Professional Journey:
 
 🌐 Luminar Technolab (Jul 2022 - Present): Full Stack Engineer
+
 🌟 Edaya App for Hotels (Apr 2022 - Jul 2022): React Intern
+
 🧑‍💻 Luminar Technolab (May 2021 - Nov 2021): MEARN Stack Intern
